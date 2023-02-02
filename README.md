@@ -1,7 +1,7 @@
 # Gomoku-AI-Python
 
 
-## Overview
+#### Overview
 This is strategy board game played on 15 * 15 Go Board, which is most widely played in Asian countries like China,Korea and Japan. This is a multi agent game where two players place their coins on board on alternate basis.
 Players will be assigned with coloured coins.
 Player 1 (Black Coin) Player 2 (White coin)
