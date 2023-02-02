@@ -8,7 +8,7 @@ Player 1 (Black Coin) Player 2 (White coin)
 Winning Criteria:
 Players can win this game by placing five same coloured coins in a vertical,horizontal and diagonal line.
 
-### This Game uses adversarial search where the player will try to minimize the winning chances of the opponent player.
+This Game uses adversarial search where the player will try to minimize the winning chances of the opponent player.
 
 - To implement this game, the Minimax algorithm is being used with alpha beta pruning to identify the best possible move for the AI.
 
@@ -18,7 +18,7 @@ Players can win this game by placing five same coloured coins in a vertical,hori
 
 
 ### Game Versions:
-● Human vs AI
+- Human vs AI
 Here AI will maximize its chances of winning while minimizing the winning chances of its opponent using a minimax algorithm.
-● Human vs Human
+- Human vs Human
 Here both players will play against each other to win the game.
